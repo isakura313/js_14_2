@@ -30,7 +30,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.arr.js">
+  <component name="RunManager" selected="Node.js.unions.js">
     <configuration name="arr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arr.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -40,10 +40,14 @@
     <configuration name="obj.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/obj.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="unions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/unions.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.arr.js" />
+        <item itemvalue="Node.js.unions.js" />
         <item itemvalue="Node.js.data_types.js" />
+        <item itemvalue="Node.js.arr.js" />
         <item itemvalue="Node.js.obj.js" />
       </list>
     </recent_temporary>
@@ -56,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602778012328</updated>
-      <workItem from="1602778015001" duration="5494000" />
+      <workItem from="1602778015001" duration="6847000" />
     </task>
     <servers />
   </component>
@@ -64,21 +68,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1885" height="3" key="GridCell.Tab.0.bottom" timestamp="1602781092368">
+    <state width="1885" height="164" key="GridCell.Tab.0.bottom" timestamp="1602786163338">
       <screen x="0" y="23" width="1920" height="974" />
     </state>
-    <state width="1885" height="3" key="GridCell.Tab.0.bottom/0.23.1920.974@0.23.1920.974" timestamp="1602781092368" />
-    <state width="1885" height="3" key="GridCell.Tab.0.center" timestamp="1602781092368">
+    <state width="1885" height="164" key="GridCell.Tab.0.bottom/0.23.1920.974@0.23.1920.974" timestamp="1602786163338" />
+    <state width="1885" height="164" key="GridCell.Tab.0.center" timestamp="1602786163337">
       <screen x="0" y="23" width="1920" height="974" />
     </state>
-    <state width="1885" height="3" key="GridCell.Tab.0.center/0.23.1920.974@0.23.1920.974" timestamp="1602781092368" />
-    <state width="1885" height="3" key="GridCell.Tab.0.left" timestamp="1602781092367">
+    <state width="1885" height="164" key="GridCell.Tab.0.center/0.23.1920.974@0.23.1920.974" timestamp="1602786163337" />
+    <state width="1885" height="164" key="GridCell.Tab.0.left" timestamp="1602786163336">
       <screen x="0" y="23" width="1920" height="974" />
     </state>
-    <state width="1885" height="3" key="GridCell.Tab.0.left/0.23.1920.974@0.23.1920.974" timestamp="1602781092367" />
-    <state width="1885" height="3" key="GridCell.Tab.0.right" timestamp="1602781092368">
+    <state width="1885" height="164" key="GridCell.Tab.0.left/0.23.1920.974@0.23.1920.974" timestamp="1602786163336" />
+    <state width="1885" height="164" key="GridCell.Tab.0.right" timestamp="1602786163338">
       <screen x="0" y="23" width="1920" height="974" />
     </state>
-    <state width="1885" height="3" key="GridCell.Tab.0.right/0.23.1920.974@0.23.1920.974" timestamp="1602781092368" />
+    <state width="1885" height="164" key="GridCell.Tab.0.right/0.23.1920.974@0.23.1920.974" timestamp="1602786163338" />
   </component>
 </project>

@@ -9,6 +9,12 @@ console.log(arr == arr_2);
 
 let arr_3 = [1,2,3,4,5]
 console.log(arr_3.length)
+
+arr_3.forEach((el)=>{
+    console.log(el ** 2);
+})
+
+
 // нужно помнить что нумерация в массиве
 // не совпадает с длинной
 // нумерация идет с 0
